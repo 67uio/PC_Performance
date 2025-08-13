@@ -18,8 +18,8 @@ Python | psutil | SQL Server | Power BI | PyODBC
 ## ⚙ Setup
 1. Clone repo  
 2. Install: `pip install psutil pyodbc`  
-3. Update SQL Server connection in `generate.py`  
-4. Run: `python generate.py`  
+3. Update SQL Server connection in `generate.ipynb`  
+4. Run: `python generate.ipynp`  
 5. Open Power BI and connect to your database  
 
 ---
